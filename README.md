@@ -37,4 +37,5 @@ socket.send_string('remove 2') # removes from saved scholarships the scholarship
 ## Quit
 socket.send_string('Q')
 
-[Sequence diagram for this microservice](docs/CONTRIBUTING.md)
+[Sequence diagram for this microservice](/sequence_diagram.png)
+
